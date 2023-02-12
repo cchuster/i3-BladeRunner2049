@@ -237,5 +237,3 @@ echo
 neofetch --source /home/cchuster/Downloads/ascii-art.txt
 
 export PATH="$PATH:/home/cchuster/go/bin"
-
-alias tinygo="env GOROOT=/home/cchuster/sdk/go1.18 tinygo"
