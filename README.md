@@ -1,4 +1,4 @@
-# Blade Runner 2077 i3 Rice
+# Blade Runner 2049 i3 Rice
 Includes the dotfiles/configs for i3, polybar, neofetch, zsh, and wallpaper.
 
 ----
